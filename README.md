@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rule Engine with AST
 
 ## Overview
@@ -18,3 +19,6 @@ A simple rule engine using Abstract Syntax Tree (AST) for eligibility checks bas
 ## Example Usage
 
 To create a new rule:
+=======
+# Rule-Engine
+>>>>>>> d8034feb3582a0543e9d698dfd08272f2f0eb222
