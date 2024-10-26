@@ -4,12 +4,6 @@
 
 This project is a simple 3-tier rule engine application to determine user eligibility based on attributes like age, department, income, and spend. The system uses an Abstract Syntax Tree (AST) to represent conditional rules and allows dynamic creation, combination, and modification of these rules.
 
-## Objective
-
-To create a rule engine with:
-1. A simple UI for rule input and results display.
-2. APIs to create, combine, and evaluate rules.
-3. Backend data storage for rule persistence.
 
 ## Key Features
 
@@ -18,12 +12,10 @@ To create a rule engine with:
 - **Efficient Evaluation**: Evaluate rules efficiently based on user attributes.
 - **Error Handling and Validation**: Manage invalid inputs and unsupported operations gracefully.
   
-## Architecture
+## Preview
+![Screenshot 2024-10-26 162247](https://github.com/user-attachments/assets/87a2498d-0b4b-4968-be7b-eb9364851a99)
+![Screenshot 2024-10-26 162325](https://github.com/user-attachments/assets/9b43eaa2-4d9c-4864-bdb3-415282a62ec3)
 
-### Application Layers
-1. **UI**: A user-friendly interface for inputting rules and viewing eligibility results.
-2. **API**: Interface for creating, combining, and evaluating rules.
-3. **Backend & Data Layer**: Stores rules and metadata in a persistent storage solution.
 
 ## Setup Instructions
 
